@@ -10,14 +10,6 @@ This project explores and compares various algorithms for nearest neighbor searc
 * KDTree performs well on small datasets but scales poorly
 * HNSW provides strong performance even on high-dimensional data
 
----
-
-## 📚 Future Work
-
-* Include more datasets to evaluate generalizability
-* Evaluate recall\@k and precision\@k
-* Add memory usage comparison
-* Visualize performance using plots (e.g., seaborn barplots)
 
 ---
 
